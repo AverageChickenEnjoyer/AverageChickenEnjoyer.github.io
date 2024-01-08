@@ -10,7 +10,7 @@
   max-width: 800px;
   object-fit: contain;
 
-  background-color: #494d7e;
+  background-color: #520b20;
   border: 1px solid #8b6d9c;
   border-radius: 8px;
 
@@ -33,7 +33,7 @@
   cursor: pointer;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
-  background-color: #d08159;
+  background-color: #d3181c;
   border: none;
   color: #FFFFFF;
   padding: 16px 16px;
@@ -47,6 +47,7 @@
 }
 .btn:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: #ff252b;
 }
 nav {
   display: flex;
@@ -61,5 +62,5 @@ nav {
   padding-bottom: 4px;
 }
 html {
-    background-color: #272744;
+    background-color: #520b20;
 }
